@@ -1,0 +1,23 @@
+{
+  "name": "base64",
+  "version": "1.0.0",
+  "main": "base64Covert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yyf",
+  "license": "MIT",
+  "dependencies": {
+    "deferred": "^0.7.8",
+    "promise": "^8.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changegt/base64Convert.git"
+  },
+  "bugs": {
+    "url": "https://github.com/changegt/base64Convert/issues"
+  },
+  "homepage": "https://github.com/changegt/base64Convert#readme",
+  "description": ""
+}
